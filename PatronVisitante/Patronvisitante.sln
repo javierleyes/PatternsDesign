@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patronvisitante", "Patronvisitante\Patronvisitante.csproj", "{37365598-16D5-46FA-B044-103FA43CBABA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37365598-16D5-46FA-B044-103FA43CBABA}.Debug|x86.ActiveCfg = Debug|x86
+		{37365598-16D5-46FA-B044-103FA43CBABA}.Debug|x86.Build.0 = Debug|x86
+		{37365598-16D5-46FA-B044-103FA43CBABA}.Release|x86.ActiveCfg = Release|x86
+		{37365598-16D5-46FA-B044-103FA43CBABA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
