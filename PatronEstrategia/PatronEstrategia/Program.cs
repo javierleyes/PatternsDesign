@@ -20,6 +20,8 @@ namespace PatronEstrategia
 
             TypeBook = new ContextFindLibro().BuscarLibroPorTipoUsuario(profesor, "titulo del libro");
             Console.WriteLine("Estado del libro para Profesores " + TypeBook);
+
+            // New comment to test a preview feature.
         }
     }
 }
